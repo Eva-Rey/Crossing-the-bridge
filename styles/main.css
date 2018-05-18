@@ -96,6 +96,10 @@ img{
   padding-top: 5em;
 }
 
+#colone img{
+  display: flex;
+}
+
 .choice02 p {
   display: flex;
   align-items: center;
