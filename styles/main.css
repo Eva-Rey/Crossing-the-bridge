@@ -5,7 +5,9 @@ body{
   padding-left: 20em;
   padding-right: 20em;
   padding-top: 2em;
-  background-color: #adf5ff;
+  background-color: rgb(24,90,180);
+  color: #ffffff;
+  text-align: center;
 
 }
 
@@ -14,6 +16,35 @@ body{
   background-size: cover;
 }
 
+.home01{
+  background:  #adf5ff url('images/image06.png') top center no-repeat;
+  background-size: cover;
+
+}
+.home02{
+  background:  #adf5ff url('images/image07.png') top center no-repeat;
+  background-size: cover;
+}
+.home03{
+  background:  #adf5ff url('images/image09.png') top center no-repeat;
+  background-size: cover;
+}
+.home04{
+  background:  #adf5ff url('images/image10.png') top center no-repeat;
+  background-size: cover;
+}
+
+.home05{
+  background:  #adf5ff url('images/image11.png') top center no-repeat;
+  background-size: cover;
+
+}
+
+.container01{
+  background-color: rgba(255,255,255,0.5);
+  align-items: center;
+
+}
 
 h1{
   font-family:'Titan One', cursive;
@@ -23,12 +54,14 @@ h1{
 h2{
   font-family:'Titan One', cursive;
   text-align: center;
+
 }
 
 h3{
   font-family:'Titan One', cursive;
   text-align: center;
 }
+
 
 p{
   padding-top: 4em;
@@ -45,24 +78,26 @@ img{
 
 
 #choice01a a{
-  background-color: rgb(173,245,255);
-  border: 6px solid rgb(255,146,91);
+  background-color: rgb(24,90,180);
+  border: 6px solid rgb(173,245,255);
   padding: 1em;
   display: block;
   margin-left:10em;
   margin-right: 10em;
   border-radius: 35px;
 
+
 }
 
 #choice01a a:hover{
-  background-color: rgb(190,255,104);
-  border: 6px solid rgb(30,150,147);
+  background-color: rgba(190,255,104,0.5);
+  border: 6px solid rgba(30,150,147,0.5);
+
 }
 
 #choice02 a{
     background-color: rgb(173,245,255);
-    border: 6px solid rgb(255,146,91);
+    border: 6px solid rgb(244,166,18);
     padding: 1em;
     display: inline-block;
     margin-left:5em;
@@ -75,7 +110,7 @@ img{
 
 #choice03 a{
   background-color: rgb(173,245,255);
-  border: 6px solid rgb(255,146,91);
+  border: 6px solid rgb(244,166,18);
   padding: 1em;
   display: block;
   margin-left:10em;
@@ -108,10 +143,12 @@ img{
 
 .léopard-loup img{
   align-items: center;
-  padding-left: 10em;
+  padding-left: 3em;
   padding-top: 5em;
 
 }
+
+
 
 
 
